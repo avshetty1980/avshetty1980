@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Ash Shetty, I am a Professionally certified AWS solutions architect.
-- 👀 I’m interested in Cloud Native architectures, CI/CD. I have a deep understanding of DDD and event driven designs that I use in my architecture solutions. I am also a software enthusiast with good knowledge in Python and Node.js.
-- 🌱 I’m currently learning Kubernetes and CI/CD workflows
-- 💞️ I’m looking to collaborate on solutions architecture for big data, FinOps, ioT using multi-cloud resources like AWS, GCP, Azure.
-- 📫 How to reach me avshetty1980@gmail.com
+- 👀 Interested in Cloud Native architectures, CI/CD and have a deep understanding of DDD and event driven designs that I use in my architecture solutions. 
+- :computer: I am also a full-stack software enthusiast with good knowledge in Python and Node.js.
+- 🌱 I also have knowledge of Kubernetes and Docker
+- 💞️ I’m looking to collaborate on solutions architecture using multi-cloud resources like AWS, GCP, Azure.
+- 📫 Email me avshetty1980@gmail.com
+- :house_with_garden: LinkdIn profile https://www.linkedin.com/in/ash-shetty-34a21617b/
 
 <!---
 avshetty1980/avshetty1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
