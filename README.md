@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ash Shetty, I am a Professionally certified AWS solutions architect.
 - 👀 Interested in Cloud Native architectures, CI/CD and have a deep understanding of DDD and event driven designs that I use in my architecture solutions. 
 - :computer: I am also a full-stack software enthusiast with good knowledge in Python and Node.js.
-- 💞️ I’m looking to collaborate on solutions architecture using multi-cloud resources like AWS, GCP, Azure.
 - 📫 Email me avshetty1980@gmail.com
 - :house_with_garden: LinkdIn profile https://www.linkedin.com/in/ash-shetty-34a21617b/
 
